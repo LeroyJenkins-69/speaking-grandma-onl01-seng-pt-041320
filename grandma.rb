@@ -1,7 +1,8 @@
 def speak_to_grandma(phrase)
-  if "i love you grandma!".upcase
+  "#{phrase}" = say
+  if 
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif "do you dance?".upcase
+  elsif 
     puts "NO, NOT SINCE 1938!"
   else
     puts "HUH?! SPEAK UP, SONNY!"
